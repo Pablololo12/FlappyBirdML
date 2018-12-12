@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Mac
+.DS_Store
+
+PyGame-Learning-Environment/
